@@ -1,4 +1,4 @@
-package es.etg.psp.dmc.caballos;
+package es.etg.psp.dmc.caballos.logic.util;
 
 public interface PortData {
     public final int PORT = 8090;

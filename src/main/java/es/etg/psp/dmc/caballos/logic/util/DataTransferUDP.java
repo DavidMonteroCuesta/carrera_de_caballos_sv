@@ -4,8 +4,6 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
-import es.etg.psp.dmc.caballos.PortData;
-
 public interface DataTransferUDP extends PortData{
     
     @SuppressWarnings("ConvertToTryWithResources")
